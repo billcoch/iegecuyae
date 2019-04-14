@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oazoolaeko.open.qa/sitemap.xml
